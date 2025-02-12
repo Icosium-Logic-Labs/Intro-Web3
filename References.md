@@ -6,6 +6,7 @@
    - https://www.geeksforgeeks.org/ethereum-block-structure/
    - https://ethereum.org/en/developers/
    - https://ethereum.org/en/developers/tutorials/
-   - 
+   - White paper: https://ethereum.org/en/whitepaper/
+   - Yellow paper: https://ethereum.github.io/yellowpaper/paper.pdf
 
 ## Books:
