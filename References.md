@@ -11,5 +11,6 @@
    - Ethereum Data Structure: https://arxiv.org/pdf/2108.05513/1000
    - NFT Minting: https://medium.com/@Posvar/visualizing-the-ethereum-machine-b39875830ded
    - Reth (Full Ethereum node implementation): [https://reth.rs/run/transactions.html](https://reth.rs/intro.html)
+   - GO Transaction implementation code: https://github.com/ethereum/go-ethereum/blob/master/core/types/transaction.go
 
 ## Books:
